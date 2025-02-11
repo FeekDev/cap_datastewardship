@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_bmkikeigEe-U_vUs2rZHZw" label="Capacitacion_Stewardpships" language="java" technicalLabel="CAPACITACION_STEWARDPSHIPS" author="_bmkikuigEe-U_vUs2rZHZw" productVersion="Talend Cloud Data Fabric-8.0.1.20241203_0647-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/FeekDev/cap_datastewardship.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_bn0fwOigEe-U_vUs2rZHZw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_bmkikuigEe-U_vUs2rZHZw" login="feliperios@nfr.manar.com.co" firstName="Felipe" lastName="Gomez" type="DQ"/>
+</xmi:XMI>
