@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataquality.rules:MatchRuleDefinition xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:dataquality.rules="http://dataquality.rules" xmi:id="_QDG4kOojEe-GAs8Yzidt9w" name="Test">
+  <taggedValue xmi:id="_QDG4keojEe-GAs8Yzidt9w" tag="Status" value="development"/>
+  <taggedValue xmi:id="_QDG4kuojEe-GAs8Yzidt9w" tag="Author" value="feliperios@nfr.manar.com.co"/>
+  <taggedValue xmi:id="_QDG4k-ojEe-GAs8Yzidt9w" tag="Purpose" value=""/>
+  <taggedValue xmi:id="_QDG4lOojEe-GAs8Yzidt9w" tag="Description" value=""/>
+  <taggedValue xmi:id="_QDG4leojEe-GAs8Yzidt9w" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_QDG4luojEe-GAs8Yzidt9w" tag="Validation_Status" value="true"/>
+  <blockKeys xmi:id="_SyJRsOojEe-GAs8Yzidt9w" name="Name" column="">
+    <preAlgorithm xmi:id="_SyJRseojEe-GAs8Yzidt9w" algorithmType="NON_ALGO" algorithmParameters=""/>
+    <algorithm xmi:id="_SyJRsuojEe-GAs8Yzidt9w" algorithmType="first_Char_EW" algorithmParameters=""/>
+    <postAlgorithm xmi:id="_SyJRs-ojEe-GAs8Yzidt9w" algorithmType="NON_ALGO" algorithmParameters=""/>
+  </blockKeys>
+  <matchRules xmi:id="_QIPQMOojEe-GAs8Yzidt9w" name="Match Rule 1">
+    <matchKeys xmi:id="_WYefMOojEe-GAs8Yzidt9w" name="Name" column="" confidenceWeight="1" handleNull="nullMatchNull" threshold="1.0" tokenizationType="No">
+      <algorithm xmi:id="_WYefMeojEe-GAs8Yzidt9w" algorithmType="EXACT" algorithmParameters=""/>
+    </matchKeys>
+  </matchRules>
+</dataquality.rules:MatchRuleDefinition>
